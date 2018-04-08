@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "128739740440",
+    "firebase_url": "https://exercise-9-2.firebaseio.com",
+    "project_id": "exercise-9-2",
+    "storage_bucket": "exercise-9-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128739740440:android:41410cadf97b1a0d",
+        "android_client_info": {
+          "package_name": "com.metropolia.tarekh.exercise_9_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128739740440-hs09cfo4u58kul61heedkai7rl5mrn4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metropolia.tarekh.exercise_9_2",
+            "certificate_hash": "f9b2d4bec77b48f90b42e74425ccf4e80ec04658"
+          }
+        },
+        {
+          "client_id": "128739740440-kuoq47h4poovuhutgdiepjvjb6hfth73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzS_1gHgJAcT4OZqtBxiSoxXWLwJiGLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128739740440-kuoq47h4poovuhutgdiepjvjb6hfth73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

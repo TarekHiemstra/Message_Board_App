@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise_9_2</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign in</string>
+    <string name="logout">Sign out</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="add_post">Add post</string>
+    <string name="sign_out">Sign out</string>
+    <string name="display_name">Display name</string>
+    <string name="cancel">Cancel</string>
+    <string name="post_display_name">Post display name</string>
+    <string name="post_date">Post date</string>
+    <string name="post_text">Post Text</string>
+    <string name="post_submit">Submit</string>
+</resources>
